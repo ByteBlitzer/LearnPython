@@ -1,0 +1,1 @@
+Resources for my python learning journey, and exercises.
